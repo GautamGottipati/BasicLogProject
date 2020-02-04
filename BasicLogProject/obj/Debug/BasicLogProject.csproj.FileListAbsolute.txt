@@ -1,0 +1,9 @@
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\bin\Debug\BasicLogProject.exe.config
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\bin\Debug\BasicLogProject.exe
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\bin\Debug\BasicLogProject.pdb
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\bin\Debug\log4net.dll
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\bin\Debug\log4net.xml
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\obj\Debug\BasicLogProject.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\obj\Debug\BasicLogProject.csproj.CopyComplete
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\obj\Debug\BasicLogProject.exe
+C:\Users\Gautam_Gottipati\source\repos\BasicLogProject\BasicLogProject\obj\Debug\BasicLogProject.pdb
